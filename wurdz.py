@@ -3,7 +3,7 @@ import requests
 app_id = 'e3f8cead'
 app_key = '7ffa41a78b42ecd6f234495acfa4578e'
 
-language = 'en-gb'
+language = 'en-us'
 word_id = input("Enter a word: ")
 fields = 'pronunciations'
 strictMatch = 'false'
